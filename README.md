@@ -103,7 +103,7 @@ single busiest combination at 9.12%.
 ### Operational Insights
 **Regional wait times are nearly identical, but the bottleneck is the same everywhere.**  
 Urban (81.98 min) and Rural (81.82 min) regions show almost no difference. In both cases, 
-time to medical professional (~45 min) is the dominant delay — not registration (~11 min) 
+time to medical professional (~45 min) is the dominant delay not registration (~11 min) 
 or triage (~25 min).
 
 **Nurse-to-Patient Ratio has a far stronger effect on wait time than Specialist Availability.**  
@@ -116,7 +116,7 @@ Critical patients split almost evenly between admitted (50.4%) and discharged (4
 Over 1 in 6 Low urgency patients left before receiving care.
 
 **Springfield General Hospital is the worst performer in the Urban region.**  
-With an average wait time of 82.70 minutes, it ranks first in the Urban region — above 
+With an average wait time of 82.70 minutes, it ranks first in the Urban region above 
 Riverside Medical Center (81.81) and Summit Health Center (81.43).
 
 **December is the worst month, September the best.**  
