@@ -100,7 +100,7 @@ single busiest combination at 9.12%.
 
 ---
 
-### Intermediate Analysis
+### Analysis
 
 **Regional wait times are nearly identical, but the bottleneck is the same everywhere.**  
 Urban (81.98 min) and Rural (81.82 min) regions show almost no difference. In both cases, 
@@ -115,10 +115,6 @@ variation within the same nurse ratio bucket.
 **16.2% of Low urgency patients left without being seen.**  
 Critical patients split almost evenly between admitted (50.4%) and discharged (49.6%). 
 Over 1 in 6 Low urgency patients left before receiving care.
-
----
-
-### Advanced SQL
 
 **Springfield General Hospital is the worst performer in the Urban region.**  
 With an average wait time of 82.70 minutes, it ranks first in the Urban region — above 
