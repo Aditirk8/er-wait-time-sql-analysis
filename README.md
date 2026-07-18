@@ -100,8 +100,7 @@ single busiest combination at 9.12%.
 
 ---
 
-### Analysis
-
+### Operational Insights
 **Regional wait times are nearly identical, but the bottleneck is the same everywhere.**  
 Urban (81.98 min) and Rural (81.82 min) regions show almost no difference. In both cases, 
 time to medical professional (~45 min) is the dominant delay — not registration (~11 min) 
