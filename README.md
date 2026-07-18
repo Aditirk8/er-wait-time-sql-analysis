@@ -13,7 +13,7 @@ ER performance.
 
 **Tools:** Python · Pandas · DuckDB · Jupyter Notebook  
 **Domain:** Healthcare Operations  
-**Dataset:** [ER Wait Time Dataset — Kaggle](https://www.kaggle.com/)
+**Dataset:** [ER Wait Time Dataset — Kaggle](https://www.kaggle.com/datasets/rivalytics/er-wait-time)
 
 ---
 
